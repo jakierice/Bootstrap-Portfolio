@@ -90,7 +90,8 @@ html, body {
 
 .card {
     background-color: white;
-    margin-top: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
     padding: 10px;
     box-shadow: 3px 8px 28px #888888;
     display: inline-block;
